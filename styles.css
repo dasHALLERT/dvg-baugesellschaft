@@ -38,3 +38,6 @@ h1,h2,h3{color:#f4eee5}.section:not(.contact) h2,.section:not(.contact) h3{color
 .service-icon{filter:none}.service-icon img{border-radius:13px;object-fit:contain}.service-card h3{overflow-wrap:normal;word-break:normal;hyphens:manual}.service-hero-grid{grid-template-columns:minmax(0,1050px)}.service-hero h1{overflow-wrap:normal;word-break:normal;hyphens:manual}.service-lead{max-width:810px}.related-links>a{grid-template-columns:minmax(0,1fr) 25px}.related-links>a>span:first-child{hyphens:manual;overflow-wrap:normal}.related-links>a>span:last-child{color:#ff9144}.service-tasks article h3{margin-top:0}.projects .gallery figcaption{font-size:13px;line-height:1.5;min-height:67px;font-weight:600}.projects .gallery img{height:340px;object-fit:cover}.service-page .breadcrumbs>span:last-child{max-width:100%;overflow-wrap:normal;hyphens:manual}
 @media(max-width:700px){.service-hero h1{font-size:clamp(32px,8.5vw,51px)}.projects .gallery figcaption{font-size:12px}.projects .gallery img{height:300px}.service-card h3{font-size:22px}}
 @media(max-width:400px){.service-card{grid-template-columns:58px minmax(0,1fr);padding:20px 15px;gap:13px}.service-card h3{font-size:20px}.service-icon img{height:70px}.service-hero h1{font-size:32px}}
+
+/* Header starts at the top after removing the draft banner. */
+.home>header{top:0}
