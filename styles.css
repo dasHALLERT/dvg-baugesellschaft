@@ -41,3 +41,8 @@ h1,h2,h3{color:#f4eee5}.section:not(.contact) h2,.section:not(.contact) h3{color
 
 /* Header starts at the top after removing the draft banner. */
 .home>header{top:0}
+
+/* Responsive focal points for the Tor- und Zaunanlagen project gallery. */
+.tor-zaun-gallery .gallery-open img{object-position:var(--photo-position,center)}
+.tor-zaun-gallery figcaption{min-height:58px;align-items:flex-start}
+@media(max-width:700px){.tor-zaun-gallery .gallery-open img{object-position:var(--photo-position-mobile,var(--photo-position,center))}.tor-zaun-gallery figcaption{min-height:0}}
