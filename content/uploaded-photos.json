@@ -1,0 +1,929 @@
+[
+  {
+    "category": "betonbau",
+    "index": 1,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_16_44.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/01.jpg",
+    "key": "betonbau-neu-01",
+    "target": "betonbau",
+    "caption": "Punktfundament mit befestigter Stahlstütze",
+    "assetStem": "punktfundament-mit-befestigter-stahlstutze",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 2,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_16_47.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/02.jpg",
+    "key": "betonbau-neu-02",
+    "target": "betonbau",
+    "caption": "Bewehrung eines Punktfundaments vor der Betonage",
+    "assetStem": "bewehrung-eines-punktfundaments-vor-der-betonage",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 3,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_16_51.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/03.jpg",
+    "key": "betonbau-neu-03",
+    "target": "betonbau",
+    "caption": "Bewehrung und Schalung einer kleinen Bodenplatte im Innenbereich",
+    "assetStem": "bewehrung-und-schalung-einer-kleinen-bodenplatte-im-innenbereich",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 4,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_04.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/04.jpg",
+    "key": "betonbau-neu-04",
+    "target": "betonbau",
+    "caption": "Bewehrungskorb für ein Streifenfundament",
+    "assetStem": "bewehrungskorb-fur-ein-streifenfundament",
+    "sizes": [
+      640,
+      1280,
+      1512
+    ],
+    "width": 1512,
+    "height": 2016,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 5,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_08.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/05.jpg",
+    "key": "betonbau-neu-05",
+    "target": "betonbau",
+    "caption": "Detail der Bewehrung einer eingeschalten Bodenplatte",
+    "assetStem": "detail-der-bewehrung-einer-eingeschalten-bodenplatte",
+    "sizes": [
+      640,
+      1280,
+      1512
+    ],
+    "width": 1512,
+    "height": 2016,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 6,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_11.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/06.jpg",
+    "key": "betonbau-neu-06",
+    "target": "betonbau",
+    "caption": "Dämmung und Schalung als Vorbereitung der Bodenplatte",
+    "assetStem": "dammung-und-schalung-als-vorbereitung-der-bodenplatte",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 7,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_15.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/07.jpg",
+    "key": "betonbau-neu-07",
+    "target": "betonbau",
+    "caption": "Flächige Bewehrung der Bodenplatte vor der Betonage",
+    "assetStem": "flachige-bewehrung-der-bodenplatte-vor-der-betonage",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 8,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_18.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/08.jpg",
+    "key": "betonbau-neu-08",
+    "target": "betonbau",
+    "caption": "Fertig betonierte Bodenplatte am Gebäude",
+    "assetStem": "fertig-betonierte-bodenplatte-am-gebaude",
+    "sizes": [
+      640,
+      1280,
+      1512
+    ],
+    "width": 1512,
+    "height": 2016,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 9,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_22.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/09.jpg",
+    "key": "betonbau-neu-09",
+    "target": "betonbau",
+    "caption": "Bewehrungsmatte für ein kleines Fundament",
+    "assetStem": "bewehrungsmatte-fur-ein-kleines-fundament",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 10,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_25.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/10.jpg",
+    "key": "betonbau-neu-10",
+    "target": "betonbau",
+    "caption": "Betonplatte mit vorbereiteten Leitungsdurchführungen",
+    "assetStem": "betonplatte-mit-vorbereiteten-leitungsdurchfuhrungen",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 11,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_29.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/11.jpg",
+    "key": "betonbau-neu-11",
+    "target": "betonbau",
+    "caption": "Betonsockel entlang einer Gebäudewand",
+    "assetStem": "betonsockel-entlang-einer-gebaudewand",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "betonbau",
+    "index": 12,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_32.jpg",
+    "path": "docs/originalfotos-2026-11-08/betonbau/12.jpg",
+    "key": "betonbau-neu-12",
+    "target": "betonbau",
+    "caption": "Frisch betonierte Bodenplatte während der Ausführung",
+    "assetStem": "frisch-betonierte-bodenplatte-wahrend-der-ausfuhrung",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "abbrucharbeiten",
+    "index": 1,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_47.jpg",
+    "path": "docs/originalfotos-2026-11-08/abbrucharbeiten/01.jpg",
+    "key": "abbrucharbeiten-neu-01",
+    "target": "abbrucharbeiten",
+    "caption": "Rückbau von Mauerwerk im Innenbereich",
+    "assetStem": "ruckbau-von-mauerwerk-im-innenbereich",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "abbrucharbeiten",
+    "index": 2,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_51.jpg",
+    "path": "docs/originalfotos-2026-11-08/abbrucharbeiten/02.jpg",
+    "key": "abbrucharbeiten-neu-02",
+    "target": "abbrucharbeiten",
+    "caption": "Bagger beim Rückbau von Mauerwerk und Außenanlagen",
+    "assetStem": "bagger-beim-ruckbau-von-mauerwerk-und-aussenanlagen",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "abbrucharbeiten",
+    "index": 3,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_17_55.jpg",
+    "path": "docs/originalfotos-2026-11-08/abbrucharbeiten/03.jpg",
+    "key": "abbrucharbeiten-neu-03",
+    "target": "abbrucharbeiten",
+    "caption": "Freigelegter Boden nach dem Rückbau im Innenbereich",
+    "assetStem": "freigelegter-boden-nach-dem-ruckbau-im-innenbereich",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 1,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_07.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/01.jpg",
+    "key": "pflasterarbeiten-neu-01",
+    "target": "pflasterarbeiten",
+    "caption": "Pflasterarbeiten an einer gerundeten Eingangsstufe",
+    "assetStem": "pflasterarbeiten-an-einer-gerundeten-eingangsstufe",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 2,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_10.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/02.jpg",
+    "key": "pflasterarbeiten-neu-02",
+    "target": "pflasterarbeiten",
+    "caption": "Lange Treppenanlage während der Ausführung",
+    "assetStem": "lange-treppenanlage-wahrend-der-ausfuhrung",
+    "sizes": [
+      640,
+      1280,
+      1512
+    ],
+    "width": 1512,
+    "height": 2016,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 3,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_14.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/03.jpg",
+    "key": "pflasterarbeiten-neu-03",
+    "target": "pflasterarbeiten",
+    "caption": "Straßenpflaster mit Entwässerungsrinne und Einfassungen",
+    "assetStem": "strassenpflaster-mit-entwasserungsrinne-und-einfassungen",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 4,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_17.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/04.jpg",
+    "key": "pflasterarbeiten-neu-04",
+    "target": "pflasterarbeiten",
+    "caption": "Vorbereitung und Verlegung einer eingefassten Pflasterfläche",
+    "assetStem": "vorbereitung-und-verlegung-einer-eingefassten-pflasterflache",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 5,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_21.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/05.jpg",
+    "key": "pflasterarbeiten-neu-05",
+    "target": "pflasterarbeiten",
+    "caption": "Geschwungener Gartenweg aus Natursteinpflaster",
+    "assetStem": "geschwungener-gartenweg-aus-natursteinpflaster",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 6,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_24.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/06.jpg",
+    "key": "pflasterarbeiten-neu-06",
+    "target": "pflasterarbeiten",
+    "caption": "Vorbereitung des Untergrunds für einen Gartenweg",
+    "assetStem": "vorbereitung-des-untergrunds-fur-einen-gartenweg",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 7,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_27.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/07.jpg",
+    "key": "pflasterarbeiten-neu-07",
+    "target": "pflasterarbeiten",
+    "caption": "Pflasterweg zum Gartenpavillon",
+    "assetStem": "pflasterweg-zum-gartenpavillon",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 8,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_31.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/08.jpg",
+    "key": "pflasterarbeiten-neu-08",
+    "target": "pflasterarbeiten",
+    "caption": "Eingangsstufe mit Fußabstreiferrost",
+    "assetStem": "eingangsstufe-mit-fussabstreiferrost",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 9,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_34.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/09.jpg",
+    "key": "pflasterarbeiten-neu-09",
+    "target": "pflasterarbeiten",
+    "caption": "Plattenweg entlang einer Gebäudewand",
+    "assetStem": "plattenweg-entlang-einer-gebaudewand",
+    "sizes": [
+      640,
+      1280,
+      1536
+    ],
+    "width": 1536,
+    "height": 2048,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 10,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_47.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/10.jpg",
+    "key": "pflasterarbeiten-neu-10",
+    "target": "pflasterarbeiten",
+    "caption": "Rot-graue Pflasterfläche einer Zufahrt",
+    "assetStem": "rot-graue-pflasterflache-einer-zufahrt",
+    "sizes": [
+      640,
+      1280,
+      1600
+    ],
+    "width": 1600,
+    "height": 1200,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 11,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_51.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/11.jpg",
+    "key": "pflasterarbeiten-neu-11",
+    "target": "pflasterarbeiten",
+    "caption": "Gepflasterte Außenflächen rund um ein Wohnhaus",
+    "assetStem": "gepflasterte-aussenflachen-rund-um-ein-wohnhaus",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 12,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_54.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/12.jpg",
+    "key": "pflasterarbeiten-neu-12",
+    "target": "pflasterarbeiten",
+    "caption": "Großflächige Pflasterung entlang einer Halle",
+    "assetStem": "grossflachige-pflasterung-entlang-einer-halle",
+    "trim": {
+      "left": 0,
+      "top": 184,
+      "width": 945,
+      "height": 1680
+    },
+    "sizes": [
+      640,
+      945
+    ],
+    "width": 945,
+    "height": 1680,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 13,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_18_58.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/13.jpg",
+    "key": "pflasterarbeiten-neu-13",
+    "target": "pflasterarbeiten",
+    "caption": "Geschwungene Zufahrt mit mehrfarbigem Pflaster",
+    "assetStem": "geschwungene-zufahrt-mit-mehrfarbigem-pflaster",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 14,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_01.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/14.jpg",
+    "key": "pflasterarbeiten-neu-14",
+    "target": "pflasterarbeiten",
+    "caption": "Eingepasster Schachtdeckel im Klinkerpflaster",
+    "assetStem": "eingepasster-schachtdeckel-im-klinkerpflaster",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 15,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_05.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/15.jpg",
+    "key": "pflasterarbeiten-neu-15",
+    "target": "pflasterarbeiten",
+    "caption": "Plattenfläche am Hauseingang",
+    "assetStem": "plattenflache-am-hauseingang",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 16,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_08.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/16.jpg",
+    "key": "pflasterarbeiten-neu-16",
+    "target": "pflasterarbeiten",
+    "caption": "Mehrstufige Eingangstreppe aus Granit",
+    "assetStem": "mehrstufige-eingangstreppe-aus-granit",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 17,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_12.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/17.jpg",
+    "key": "pflasterarbeiten-neu-17",
+    "target": "pflasterarbeiten",
+    "caption": "Gepflasterte Hof- und Zufahrtsfläche",
+    "assetStem": "gepflasterte-hof-und-zufahrtsflache",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 18,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_15.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/18.jpg",
+    "key": "pflasterarbeiten-neu-18",
+    "target": "pflasterarbeiten",
+    "caption": "Gerundete Treppen- und Pflasteranlage im Garten",
+    "assetStem": "gerundete-treppen-und-pflasteranlage-im-garten",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "pflasterarbeiten",
+    "index": 19,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_19.jpg",
+    "path": "docs/originalfotos-2026-11-08/pflasterarbeiten/19.jpg",
+    "key": "pflasterarbeiten-neu-19",
+    "target": "pflasterarbeiten",
+    "caption": "Geschwungener Pflasterweg am Neubau",
+    "assetStem": "geschwungener-pflasterweg-am-neubau",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 1,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_39.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/01.jpg",
+    "key": "tiefbau-neu-01",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Grabenverbau bei Arbeiten im Straßenbereich",
+    "assetStem": "grabenverbau-bei-arbeiten-im-strassenbereich",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1440,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 2,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_52.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/02.jpg",
+    "key": "tiefbau-neu-02",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Leitungsverlegung im offenen Graben",
+    "assetStem": "leitungsverlegung-im-offenen-graben",
+    "sizes": [
+      640,
+      1280,
+      1512
+    ],
+    "width": 1512,
+    "height": 2016,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 3,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_55.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/03.jpg",
+    "key": "tiefbau-neu-03",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Schacht und Leitungsgraben an einer Zufahrt",
+    "assetStem": "schacht-und-leitungsgraben-an-einer-zufahrt",
+    "sizes": [
+      640,
+      900
+    ],
+    "width": 900,
+    "height": 1600,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 4,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_19_58.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/04.jpg",
+    "key": "tiefbau-neu-04",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Arbeiten an freigelegten Versorgungsleitungen",
+    "assetStem": "arbeiten-an-freigelegten-versorgungsleitungen",
+    "sizes": [
+      640,
+      1280,
+      1512
+    ],
+    "width": 1512,
+    "height": 2016,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 5,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_02.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/05.jpg",
+    "key": "tiefbau-neu-05",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Leitungsgraben entlang eines Gebäudes",
+    "assetStem": "leitungsgraben-entlang-eines-gebaudes",
+    "sizes": [
+      640,
+      1280,
+      1512
+    ],
+    "width": 1512,
+    "height": 2016,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 6,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_05.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/06.jpg",
+    "key": "tiefbau-neu-06",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Baggereinsatz am gesicherten Leitungsgraben",
+    "assetStem": "baggereinsatz-am-gesicherten-leitungsgraben",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 7,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_09.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/07.jpg",
+    "key": "tiefbau-neu-07",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Ausgesteifte Baugrube am Gebäude",
+    "assetStem": "ausgesteifte-baugrube-am-gebaude",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 8,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_12.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/08.jpg",
+    "key": "tiefbau-neu-08",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Arbeiten im abgestützten Leitungsgraben",
+    "assetStem": "arbeiten-im-abgestutzten-leitungsgraben",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "kanal-und-tiefbauarbeiten",
+    "index": 9,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_15.jpg",
+    "path": "docs/originalfotos-2026-11-08/kanal-und-tiefbauarbeiten/09.jpg",
+    "key": "tiefbau-neu-09",
+    "target": "kanal-und-tiefbauarbeiten",
+    "caption": "Weiterer Arbeitsschritt im abgestützten Leitungsgraben",
+    "assetStem": "weiterer-arbeitsschritt-im-abgestutzten-leitungsgraben",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-a",
+    "index": 1,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_35.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-a/01.jpg",
+    "key": "zaun-a-neu-01",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "doppelstabmattenzaun-gruen-baumbestand",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-a",
+    "index": 2,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_38.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-a/02.jpg",
+    "key": "zaun-a-neu-02",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "toranlage-doppelstabmatte-baustelle",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-a",
+    "index": 3,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_42.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-a/03.jpg",
+    "key": "zaun-a-neu-03",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "wpc-sichtschutz-braun-wohnhaus",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-a",
+    "index": 4,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_45.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-a/04.jpg",
+    "key": "zaun-a-neu-04",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "gartentor-doppelstabmatte-schwarz",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-a",
+    "index": 5,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_48.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-a/05.jpg",
+    "key": "zaun-a-neu-05",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "wpc-sichtschutz-anthrazit-garten",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-a",
+    "index": 6,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_52.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-a/06.jpg",
+    "key": "zaun-a-neu-06",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "wpc-sichtschutz-anthrazit-montage",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-a",
+    "index": 7,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_55.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-a/07.jpg",
+    "key": "zaun-a-neu-07",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "doppelfluegeltor-doppelstabmatte-gruen",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-a",
+    "index": 8,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_20_58.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-a/08.jpg",
+    "key": "zaun-a-neu-08",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "doppelstabmattenzaun-an-wohnhaus",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-b",
+    "index": 1,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_21_08.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-b/01.jpg",
+    "key": "zaun-b-neu-01",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "wpc-sichtschutz-anthrazit-montage",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-b",
+    "index": 2,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_21_11.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-b/02.jpg",
+    "key": "zaun-b-neu-02",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "gartentor-doppelstabmatte-schwarz",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-b",
+    "index": 3,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_21_14.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-b/03.jpg",
+    "key": "zaun-b-neu-03",
+    "target": "tor-und-zaunanlagen",
+    "caption": "WPC-Sichtschutzanlage aus einer weiteren Gartenperspektive",
+    "assetStem": "wpc-sichtschutzanlage-aus-einer-weiteren-gartenperspektive",
+    "sizes": [
+      640,
+      1280,
+      1920
+    ],
+    "width": 1920,
+    "height": 1081,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-b",
+    "index": 4,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_21_18.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-b/04.jpg",
+    "key": "zaun-b-neu-04",
+    "target": "tor-und-zaunanlagen",
+    "caption": "Doppelstabmattenzaun am Baumbestand aus einer weiteren Perspektive",
+    "assetStem": "doppelstabmattenzaun-am-baumbestand-aus-einer-weiteren-perspektive",
+    "sizes": [
+      640,
+      1280,
+      1512
+    ],
+    "width": 1512,
+    "height": 2016,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-b",
+    "index": 5,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_21_21.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-b/05.jpg",
+    "key": "zaun-b-neu-05",
+    "target": "tor-und-zaunanlagen",
+    "duplicateOf": "doppelstabmattenzaun-gruen-baumbestand",
+    "review": "Identisches Bildmotiv visuell bestätigt; vorhandene Darstellung bleibt erhalten."
+  },
+  {
+    "category": "tor-und-zaunanlagen-b",
+    "index": 6,
+    "download": "ChatGPT-Bild 8. Nov. 2026, 12_21_25.jpg",
+    "path": "docs/originalfotos-2026-11-08/tor-und-zaunanlagen-b/06.jpg",
+    "key": "zaun-b-neu-06",
+    "target": "tor-und-zaunanlagen",
+    "caption": "Montage einer Toranlage am gepflasterten Zugang",
+    "assetStem": "montage-einer-toranlage-am-gepflasterten-zugang",
+    "sizes": [
+      640,
+      1126
+    ],
+    "width": 1126,
+    "height": 2000,
+    "review": "Eigenständige Aufnahme; auch ähnliche Perspektiven und Bauphasen bleiben erhalten."
+  }
+]
