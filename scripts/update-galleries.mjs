@@ -23,6 +23,7 @@ for(const [slug,{photos,intro}] of Object.entries(assignments)){
   }else if(caption){
    f=f.replace(/data-caption="[^"]*"/,`data-caption="${escape(caption)}"`).replace(/aria-label="Foto vergrößern:[^"]*"/,`aria-label="Foto vergrößern: ${escape(caption)}"`).replace(/alt="[^"]*"/,`alt="${escape(caption)}"`).replace(/<figcaption><span>.*?<\/span>/,`<figcaption><span>${escape(caption)}</span>`);
   }
+  if(key==='beratung-bauvorhaben') f=f.replace(/<figcaption><span>.*?<\/span>/,'<figcaption><span></span>');
   return f.replace(/(<span class="gallery-photo-number">)\d+(<\/span>)/,`$1${String(index+1).padStart(2,'0')}$2`);
  }).join('');
  const marker='<section id="galerie"';const pos=page.indexOf(marker);if(pos<0)throw Error(`Galerie fehlt: ${slug}`);
