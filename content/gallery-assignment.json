@@ -1,0 +1,119 @@
+{
+  "kanal-und-tiefbauarbeiten": {
+    "photos": [
+      "projekt-05",
+      "projekt-01",
+      "projekt-03",
+      "tiefbau-neu-01",
+      "tiefbau-neu-02",
+      "tiefbau-neu-03",
+      "tiefbau-neu-04",
+      "tiefbau-neu-05",
+      "tiefbau-neu-06",
+      "tiefbau-neu-07",
+      "tiefbau-neu-08",
+      "tiefbau-neu-09"
+    ],
+    "intro": "Leitungs- und Schachtarbeiten, Grabenverbau und Baggereinsatz in unterschiedlichen Bauphasen."
+  },
+  "bagger-und-erdarbeiten": {
+    "photos": [
+      "projekt-16",
+      "projekt-08",
+      "projekt-13",
+      "projekt-19"
+    ],
+    "intro": "Bagger im Einsatz, modellierte Erdflächen und vorbereitete Außenanlagen."
+  },
+  "kellerwandabdichtungen": {
+    "photos": [
+      "projekt-06",
+      "projekt-07",
+      "projekt-10-retuschiert"
+    ],
+    "intro": "Freigelegte Kellerwände, Abdichtung und Schutzschichten am Gebäude."
+  },
+  "pflasterarbeiten": {
+    "photos": [
+      "projekt-17",
+      "projekt-04",
+      "projekt-15",
+      "projekt-20",
+      "projekt-21",
+      "projekt-12",
+      "projekt-22",
+      "projekt-23",
+      "pflasterarbeiten-neu-01",
+      "pflasterarbeiten-neu-02",
+      "pflasterarbeiten-neu-03",
+      "pflasterarbeiten-neu-04",
+      "pflasterarbeiten-neu-05",
+      "pflasterarbeiten-neu-06",
+      "pflasterarbeiten-neu-07",
+      "pflasterarbeiten-neu-08",
+      "pflasterarbeiten-neu-09",
+      "pflasterarbeiten-neu-10",
+      "pflasterarbeiten-neu-11",
+      "pflasterarbeiten-neu-12",
+      "pflasterarbeiten-neu-13",
+      "pflasterarbeiten-neu-14",
+      "pflasterarbeiten-neu-15",
+      "pflasterarbeiten-neu-16",
+      "pflasterarbeiten-neu-17",
+      "pflasterarbeiten-neu-18",
+      "pflasterarbeiten-neu-19"
+    ],
+    "intro": "Zufahrten, Wege, Terrassen und Treppenanlagen: fertige Flächen und Einblicke in die Ausführung."
+  },
+  "betonbau": {
+    "photos": [
+      "projekt-14",
+      "projekt-18",
+      "betonbau-neu-01",
+      "betonbau-neu-02",
+      "betonbau-neu-03",
+      "betonbau-neu-04",
+      "betonbau-neu-05",
+      "betonbau-neu-06",
+      "betonbau-neu-07",
+      "betonbau-neu-08",
+      "betonbau-neu-09",
+      "betonbau-neu-10",
+      "betonbau-neu-11",
+      "betonbau-neu-12"
+    ],
+    "intro": "Fundamente und Bodenplatten in verschiedenen Bauphasen: Vorbereitung, Schalung, Bewehrung und Betonage."
+  },
+  "planung-und-beratung": {
+    "photos": [
+      "planung-baustelle",
+      "beratung-bauvorhaben"
+    ],
+    "intro": "Planung auf der Baustelle und Beratung zur Gestaltung Ihrer Auffahrt."
+  },
+  "tor-und-zaunanlagen": {
+    "photos": [
+      "wpc-sichtschutz-anthrazit-garten",
+      "doppelstabmattenzaun-an-wohnhaus",
+      "doppelfluegeltor-doppelstabmatte-gruen",
+      "wpc-sichtschutz-braun-wohnhaus",
+      "doppelstabmattenzaun-gruen-baumbestand",
+      "gartentor-doppelstabmatte-schwarz",
+      "wpc-sichtschutz-anthrazit-montage",
+      "toranlage-doppelstabmatte-baustelle",
+      "zaun-b-neu-03",
+      "zaun-b-neu-04",
+      "zaun-b-neu-06"
+    ],
+    "intro": "Tor-, Zaun- und Sichtschutzanlagen: fertige Ausführungen und Einblicke in die Montage."
+  },
+  "abbrucharbeiten": {
+    "photos": [
+      "projekt-09",
+      "abbrucharbeiten-neu-01",
+      "abbrucharbeiten-neu-02",
+      "abbrucharbeiten-neu-03"
+    ],
+    "intro": "Rückbau im Innen- und Außenbereich sowie Abbrucharbeiten mit Maschineneinsatz."
+  }
+}

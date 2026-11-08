@@ -1,0 +1,86 @@
+[
+  {
+    "a": "zaun-a-neu-01",
+    "b": "zaun-b-neu-05",
+    "distance": 0,
+    "mae": 0
+  },
+  {
+    "a": "zaun-a-neu-01",
+    "b": "doppelstabmattenzaun-gruen-baumbestand",
+    "distance": 0,
+    "mae": 2.334
+  },
+  {
+    "a": "zaun-a-neu-02",
+    "b": "toranlage-doppelstabmatte-baustelle",
+    "distance": 0,
+    "mae": 3.961
+  },
+  {
+    "a": "zaun-a-neu-03",
+    "b": "wpc-sichtschutz-braun-wohnhaus",
+    "distance": 4,
+    "mae": 7.04
+  },
+  {
+    "a": "zaun-a-neu-04",
+    "b": "zaun-b-neu-02",
+    "distance": 0,
+    "mae": 0
+  },
+  {
+    "a": "zaun-a-neu-04",
+    "b": "gartentor-doppelstabmatte-schwarz",
+    "distance": 0,
+    "mae": 3.949
+  },
+  {
+    "a": "zaun-a-neu-05",
+    "b": "wpc-sichtschutz-anthrazit-garten",
+    "distance": 0,
+    "mae": 3.513
+  },
+  {
+    "a": "zaun-a-neu-06",
+    "b": "zaun-b-neu-01",
+    "distance": 0,
+    "mae": 0
+  },
+  {
+    "a": "zaun-a-neu-06",
+    "b": "wpc-sichtschutz-anthrazit-montage",
+    "distance": 0,
+    "mae": 3.023
+  },
+  {
+    "a": "zaun-a-neu-07",
+    "b": "doppelfluegeltor-doppelstabmatte-gruen",
+    "distance": 2,
+    "mae": 4.322
+  },
+  {
+    "a": "zaun-a-neu-08",
+    "b": "doppelstabmattenzaun-an-wohnhaus",
+    "distance": 0,
+    "mae": 3.283
+  },
+  {
+    "a": "zaun-b-neu-01",
+    "b": "wpc-sichtschutz-anthrazit-montage",
+    "distance": 0,
+    "mae": 3.023
+  },
+  {
+    "a": "zaun-b-neu-02",
+    "b": "gartentor-doppelstabmatte-schwarz",
+    "distance": 0,
+    "mae": 3.949
+  },
+  {
+    "a": "zaun-b-neu-05",
+    "b": "doppelstabmattenzaun-gruen-baumbestand",
+    "distance": 0,
+    "mae": 2.334
+  }
+]
